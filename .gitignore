@@ -1,0 +1,16 @@
+Terraform state and configuration files
+.terraform/
+terraform.tfstate
+terraform.tfstate.backup
+*.tfvars
+
+Python artifacts
+pycache/
+*.pyc
+*.pyo
+*.pyd
+.Python
+
+OS-specific files
+.DS_Store
+Thumbs.db
