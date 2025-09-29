@@ -4,8 +4,7 @@ This repository contains the infrastructure and application code for Project Gua
 
 The pipeline ingests a document through a secure API, stores it in a locked-down S3 bucket, and queues it for asynchronous processing by a serverless function, with full auditability and monitoring.
 
-
-
+![alt text](https://github.com/sduraphe/project-guardian-aws/blob/main/img1.png)
 ---
 
 ## 🚀 Key Features & DevOps Concepts Demonstrated
